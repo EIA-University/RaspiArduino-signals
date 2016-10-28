@@ -1,0 +1,8 @@
+Phyton code for turning on a LED when pushing a button through Raspberry Pi pinouts.
+
+On the code, define the pins where you put the led and the button as shown: 
+led = 17
+button = 2
+This means that the led is set in the GPIO17 and the button is set in the GPIO2.
+
+The code is designed for the Raspberry Pi and has not been tested on newer models.
