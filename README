@@ -7,3 +7,9 @@ This means that the led is set in the GPIO17 and the button is set in the GPIO2.
 The pinout for the Raspberry Pi can be found here (we do not own that link): http://www.megaleecher.net/sites/default/files/images/raspberry-pi-rev2-gpio-pinout.jpg
 
 The code is designed for the Raspberry Pi and has not been tested on newer models.
+
+This is the circuit schematic: 
+![alt text][image]
+
+[image]: https://raw.githubusercontent.com/EIA-University/RaspiArduino-signals/master/blink.png
+
