@@ -9,7 +9,5 @@ The pinout for the Raspberry Pi can be found here (we do not own that link): htt
 The code is designed for the Raspberry Pi and has not been tested on newer models.
 
 This is the circuit schematic: 
-![alt text][image]
-
-[image]: https://raw.githubusercontent.com/EIA-University/RaspiArduino-signals/master/blink.png
+![alt text] (https://raw.githubusercontent.com/EIA-University/RaspiArduino-signals/master/blink.png "Blink Schematic Tittle Text ¨1")
 
